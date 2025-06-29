@@ -4,7 +4,7 @@ Power BI Project
 
 Dashboard 1
 
-![Image](https://github.com/user-attachments/assets/a2de64f6-e8ce-4bf3-aa24-c78fe1c8bd29)
+![Image](https://github.com/user-attachments/assets/2d5f7fce-5c2a-4fbd-8ede-25ef81c9c25e)
 
 Dashboard 2
 
